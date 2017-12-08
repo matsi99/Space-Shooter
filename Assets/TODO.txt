@@ -1,0 +1,8 @@
+Finish Tutorial
+
+Limit Munition + Different Weapons
+Spacy Background Music
+Improve Interface (Live, Score, Missed, ...)
+No Enemy-Overlapping
+Enemy Spaceships (maybe even a boss)
+Better Explosions
